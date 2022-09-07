@@ -1,0 +1,36 @@
+.info-title {
+  font-size: 1.5em;
+  font-weight: 500;
+  margin-bottom: 1rem;
+}
+
+.winner-title {
+  font-size: 1.25em;
+  font-weight: 500;
+}
+
+.winner-title strong {
+  font-size: 1.75em;
+  color: var(--primary);
+}
+
+.detail-section-title {
+  text-align: left;
+  font-size: 1.125em;
+  font-weight: 500;
+  margin-bottom: 0.5em;
+}
+
+.detail-title {
+  font-size: 0.9em;
+  font-weight: bold;
+}
+
+.comparative-table td {
+  font-weight: 700;
+  white-space: nowrap;
+}
+
+.results {
+  grid-column: span 2;
+}
